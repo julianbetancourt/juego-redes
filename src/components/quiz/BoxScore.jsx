@@ -4,7 +4,7 @@ class BoxScore extends React.Component {
   render() {
     return(
       <div className="well">
-        Question {this.props.current} out of {this.props.questions.length}
+        Pregunta {this.props.current} de {this.props.questions.length}
       </div>
     );
   }

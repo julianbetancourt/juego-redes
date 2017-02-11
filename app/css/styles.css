@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  width: 100px;
+  height: 100px !important;
+  align-self: center;
+  margin-top: 2em;
+}
+
+input[type="radio"] {
+  margin-left: 6px;
+}
